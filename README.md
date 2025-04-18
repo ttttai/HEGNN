@@ -1,1 +1,1 @@
-# hegnn
+# HEGNN
